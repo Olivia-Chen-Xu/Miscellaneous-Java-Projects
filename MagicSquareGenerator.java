@@ -1,9 +1,5 @@
-// Lab15av110.java
-// The AWT Graphics Program
-// This is the 110 point version of Lab15a
-// Olivia Xu
-// 20200524
-// APCS, Mr. Robinson
+// A magic square is a square matrix of consecutive numbers, 
+// such that the numbers in the rows, the numbers in the columns, and the numbers in the diagonals add up to the same sum.
 
 import java.util.Scanner;
 import java.text.DecimalFormat;
