@@ -1,5 +1,5 @@
 // A magic square is a square matrix of consecutive numbers, 
-// such that the numbers in the rows, the numbers in the columns, and the numbers in the diagonals add up to the same sum.
+// such that the numbers in the rows, the numbers in the columns, and the numbers in the diagonals add up to the same sum. 
 
 import java.util.Scanner;
 import java.text.DecimalFormat;
