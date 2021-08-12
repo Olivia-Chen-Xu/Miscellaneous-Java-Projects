@@ -14,9 +14,9 @@ public class MagicSquareGenerator {
 
       magic.computeMagicSquare();
       magic.displayMagicSquare();
-      magic.checkRows(); // for 100 & 110 Point Version Only
-      magic.checkColumns(); // for 100 & 110 Point Version Only
-      magic.checkDiagonals(); // for 100 & 110 Point Version Only
+      magic.checkRows();
+      magic.checkColumns(); 
+      magic.checkDiagonals(); 
    }
 }
 
